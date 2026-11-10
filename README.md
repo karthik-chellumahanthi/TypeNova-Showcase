@@ -129,7 +129,10 @@ Try TypeNova and experience the typing platform directly.
 
 ## 📸 Screenshots
 
-Screenshots and product previews will be added here to showcase the TypeNova interface and features.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/697f9338-b5e8-453f-9aab-e670c764a86f" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d7674f8b-ff1a-4058-b788-653328f9a2f1" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ee0fc3a6-675f-4931-9a24-5997e32f7c75" />
+
 
 ---
 
