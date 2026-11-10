@@ -132,6 +132,8 @@ Try TypeNova and experience the typing platform directly.
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/697f9338-b5e8-453f-9aab-e670c764a86f" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d7674f8b-ff1a-4058-b788-653328f9a2f1" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ee0fc3a6-675f-4931-9a24-5997e32f7c75" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b8188896-ee20-4f37-91cc-f2f973abe67b" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b44be2ff-b6b8-4037-b2fa-52c8cabe17a3" />
 
 
 ---
